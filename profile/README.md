@@ -1,5 +1,5 @@
 <div align="center"> 
   
-[Visit Site](https://www.miusoftgames.com/)
+<a href="https://www.miusoftgames.com/" target="_blank">Visit Site</a>
 
 </div>
